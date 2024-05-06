@@ -1,3 +1,3 @@
-# A Miniature Game Engine 
+# Surreal Engine
 
-coming soon :)
+A Unity-inspired game engine that enables creation of advanced mechanics and visuals.
